@@ -6,6 +6,7 @@ While CAD is custom, the arduino code used in project was open source (thus, it 
 *Use of Snell's Law and OLED screen derived from similar designs throughout online HUD communities
 
 IMAGE:
+![20210622_223452](https://user-images.githubusercontent.com/59476460/123036543-40890a00-d3bb-11eb-9724-2f1b1e639f98.jpg)
 
 
 VIDEO LINK:
