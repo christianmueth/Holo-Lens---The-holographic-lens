@@ -11,4 +11,4 @@ https://drive.google.com/file/d/133ag9ekZem7ICZvKjoc8s7IC-i_wgRh9/view?usp=shari
 
 
 IMAGE:
-![20210622_223452](https://user-images.githubusercontent.com/59476460/123036543-40890a00-d3bb-11eb-9724-2f1b1e639f98.jpg)
+![image](https://user-images.githubusercontent.com/59476460/173171175-3fc1295d-ac3f-4c1b-9682-04f196fe8427.png)
